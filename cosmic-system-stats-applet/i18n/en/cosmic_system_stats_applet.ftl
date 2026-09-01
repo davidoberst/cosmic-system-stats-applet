@@ -1,0 +1,9 @@
+app-title = Cosmic System Stats Applet
+app-comment = applet (widget) for COSMIC desktop (Linux), on the panel shows cpu. temp,ram, vram,usage, etc...
+app-keywords =
+about = About
+view = View
+welcome = Welcome to COSMIC! ✨
+page-id = Page { $num }
+git-description = Git commit {$hash} on {$date}
+example-row = Example Row

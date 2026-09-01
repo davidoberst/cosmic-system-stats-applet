@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Cosmic System Stats Applet
+Comment=applet (widget) for COSMIC desktop (Linux), on the panel shows cpu. temp,ram, vram,usage, etc...
+Type=Application
+Icon=com.github.davidoberst.CosmicSystemStatsApplet
+Exec=cosmic-system-stats-applet %F
+Terminal=false
+StartupNotify=true
+Categories=COSMIC
+Keywords=COSMIC
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicHoverPopup=Auto
+MimeType=
